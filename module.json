@@ -3,6 +3,6 @@
     "name": "auto-cutscene",
     "author": "KYGAS",
     "description": "Automatically cancels all cutscene movies",
-    "supportUrl": "https://github.com/KYGAS/auto-cutscene-skip",
-    "servers": ["https://raw.githubusercontent.com/KYGAS/auto-cutscene-skip/master/"]
+    "supportUrl": "https://github.com/X0RPR0/AutoCutscene/issues",
+    "servers": ["https://raw.githubusercontent.com/X0RPR0/AutoCutscene/master/"]
 }
