@@ -1,12 +1,12 @@
 {
-    "files": {
-        "config.json": "11e7ca8722b88776ccfed5d2c1afdd6cdc320d9a3f217ee571976e359262fa63",
-        "index.js": "c20844f8325c2af77ff15d539117d65efeb008313b221f81331edc9e6d6bc104",
-        "module.json": "2a2ff0d97cd79e1cd2dfb0fb0dc53622606a6e50b1c132fdc5736ad3a1cddd50",
-        "README.md": "deed6864a2cdcb3619a7e11257a683dd49bd49ff92ad6c721e84515b77cd76de"
-    },
-    "defs": {
-        "C_END_MOVIE": 1,
-        "S_PLAY_MOVIE": 1
-    }
+	"files": {
+		"README.md": "deed6864a2cdcb3619a7e11257a683dd49bd49ff92ad6c721e84515b77cd76de",
+		"config.json": "11e7ca8722b88776ccfed5d2c1afdd6cdc320d9a3f217ee571976e359262fa63",
+		"index.js": "c20844f8325c2af77ff15d539117d65efeb008313b221f81331edc9e6d6bc104",
+		"module.json": "2a2ff0d97cd79e1cd2dfb0fb0dc53622606a6e50b1c132fdc5736ad3a1cddd50"
+	},
+	"defs": {
+		"C_END_MOVIE": 1,
+		"S_PLAY_MOVIE": 1
+	}
 }
